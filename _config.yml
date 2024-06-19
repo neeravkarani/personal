@@ -1,13 +1,20 @@
 # Site settings
-title: "NK's blog"
+title: "Notes"
 email: "nkarani31@gmail.org"
 baseurl: "/personal"
+twitter_username: nirav_karani
+github_username:  neeravkarani
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
 
-# theme: jekyll-theme-minimal
-# theme: jekyll-theme-modernist
-# theme: jekyll-theme-primer
+highlighter: rouge
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  math_engine_opts:
+    preview: true
+
 theme: jekyll-theme-minimal
