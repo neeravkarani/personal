@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Pankti's babyshower"
 ---
-
-# Pankti Babyshower
 
  - KODAK Mini Shot 2 Retro 4PASS 2-in-1 Instant Camera and Photo Printer (2.1x3.4 inches) + 68 Sheets Bundle, Yellow
     - [Amazon India](https://amzn.in/d/02xUwbBp) @ INR 11600

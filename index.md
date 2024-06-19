@@ -14,3 +14,9 @@ Welcome to my personal notes.
 
 ### Gifts
  - [Pankti Babyshower]({{ site.baseurl }}{% link _posts/gifts/2024-06-19-pankti_babyshower.md %})
+
+<br>
+
+### Languages
+ - [English]({{ site.baseurl }}{% link _posts/languages/2024-06-19-english.md %})
+ - [German]({{ site.baseurl }}{% link _posts/languages/2024-06-19-german.md %})

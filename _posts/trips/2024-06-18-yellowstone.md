@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Yellowstone National Park"
 ---
-
-# Yellowstone National Park
 
 Places to see
 ---
