@@ -1,9 +1,7 @@
 # Site settings
-title: "Notes"
+title: "Personal notes"
 email: "nkarani31@gmail.org"
 baseurl: "/personal"
-twitter_username: nirav_karani
-github_username:  neeravkarani
 
 # Build settings
 markdown: kramdown
