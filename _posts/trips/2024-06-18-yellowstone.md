@@ -3,6 +3,8 @@ layout: default
 title: "Yellowstone National Park"
 ---
 
+# Yellowstone National Park
+
 Places to see
 ---
  - Geysers / Hot springs
