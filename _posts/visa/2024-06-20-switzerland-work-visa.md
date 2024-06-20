@@ -53,4 +53,7 @@ title: "Switzerland work visa"
 <br>
 
 ## References
+ - [Total process flowchart](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf/_jcr_content/par/enhancedmulticolumn/items/0/column/image/image.imagespooler.jpg/1608625059552/1024.2000/verfahrensablauf-ueber4mte-e.png)
  - [Swiss Secretariat of Migration (SEM)](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf.html)
+ - [142.20 Foreign Nationals and Integration Act](https://www.fedlex.admin.ch/eli/cc/2007/758/en)
+ - [142.201 Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit](https://www.fedlex.admin.ch/eli/cc/2007/759/de)
