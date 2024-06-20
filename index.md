@@ -18,6 +18,11 @@ Welcome to my personal notes.
 
 <br>
 
+### Visa
+ - [Switzerland Work Visa]({{ site.baseurl }}{% link _posts/visa/2024-06-20-switzerland-work-visa.md %})
+
+<br>
+
 ### Languages
- - [English]({{ site.baseurl }}{% link _posts/languages/2024-06-19-english.md %})
- - [German]({{ site.baseurl }}{% link _posts/languages/2024-06-19-german.md %})
+ - [English ]({{ site.baseurl }}{% link _posts/languages/2024-06-19-english.md %})
+ - [German ]({{ site.baseurl }}{% link _posts/languages/2024-06-19-german.md %})
