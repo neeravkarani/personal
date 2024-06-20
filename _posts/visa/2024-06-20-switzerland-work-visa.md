@@ -27,17 +27,17 @@ title: "Switzerland work visa"
 ## Work permit approval letter
 
  - The Office for Economic Affairs has approved the application based on
-   - Art.18-26a, Art.30para.1lit.f–l and Art.40para.2 of the AIG
-   - Art.18a and Art.83 of the VZAE
+   - [Art.18-26a](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1), [Art.30 para.1 letter f–l](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_3) and [Art.40 para.2](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_40) of the AIG
+   - [Art.18a](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_18_a) and [Art.83](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_83) of the VZAE
  
  - Justification / Comments
-    - Reason for admission: Residence permit according to Art.20 VZAE + Art.33 AIG (start of employment with a Swiss employer).
+    - Reason for admission: Residence permit according to [Art.20 VZAE](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_20) + [Art.33 AIG](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_33) (start of employment with a Swiss employer).
     - Validity and limitation: unlimited (from July 1, 2024)
 
  - Further information:
     - This order does not yet authorize the foreign person to enter the country or to take up employment.
       The final approval (assurance of a residence permit or authorization to issue a visa) remains the **responsibility of the Migration Office of the Canton of Zurich** and **will be sent to the applicant company** by it.
-    - **The cantonal decision is not subject to the approval procedure** (Art.1 letter a of the ZV-EJPD SR 142.201.1).
+    - **The cantonal decision is not subject to the approval procedure** ([Art.1 letter a](https://www.fedlex.admin.ch/eli/cc/2015/518/de#art_1) of the ZV-EJPD).
 
 <br>
 
@@ -57,4 +57,5 @@ title: "Switzerland work visa"
  - [Swiss Secretariat of Migration (SEM)](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf.html)
  - [142.20 AIG Foreign Nationals and Integration Act](https://www.fedlex.admin.ch/eli/cc/2007/758/en)
  - [142.201 ZVAE Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit](https://www.fedlex.admin.ch/eli/cc/2007/759/de)
- - [142.201.1 ZV-EJPD Ordinance on the approval procedure under immigration law](https://fedlex.data.admin.ch/eli/cc/2015/518)
+ - [142.201.1 ZV-EJPD Ordinance on the approval procedure under immigration law](https://www.fedlex.admin.ch/eli/cc/2015/518/de)
+ - [Types of residence permits](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/biometr_auslaenderausweis.html)
