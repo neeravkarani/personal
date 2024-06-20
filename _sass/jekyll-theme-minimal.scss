@@ -292,29 +292,3 @@ footer {
     color:#444;
   }
 }
-
-/* Base styles for the navigation bar */
-.scrolling-nav {
-  width: 100%;
-  background-color: #fff; /* Adjust as needed */
-  padding: 10px 0; /* Adds padding for aesthetics */
-  border-bottom: 1px solid #ddd; /* Optional: Adds a bottom border for separation */
-}
-
-.scrolling-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.scrolling-nav li {
-  display: inline;
-  float: right; /* Keeps the Home button to the right */
-}
-
-.scrolling-nav a {
-  text-decoration: none;
-  padding: 10px 15px;
-  display: inline-block;
-}
-
