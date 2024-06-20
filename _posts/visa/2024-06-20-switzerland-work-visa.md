@@ -24,6 +24,14 @@ title: "Switzerland work visa"
 
 <br>
 
+## [Types of residence permits](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/biometr_auslaenderausweis.html)
+
+ - Short-term residence permits (L)
+ - Residence permits (B)
+ - Settlement permits (C)
+
+<br>
+
 ## Work permit approval letter
 
  - The Office for Economic Affairs has approved the application based on
@@ -42,8 +50,16 @@ title: "Switzerland work visa"
 <br>
 
 ## My timeline
- - Interview process started on Feb 15th 2024
- - Offer accepted on April 15th 2024
+ - Interview process (Feb 15th 2024 - April 15th 2024)
+    - Call with Recruiter on Feb 15th 2024
+    - Interview with Hiring Manager on March 7th 2024
+    - Take-home coding exercise on March 9th 2024
+    - Technical interview 1 on March 21st 2024
+    - Technical interview 2 on March 27th 2024
+    - Soft offer on March 28th 2024
+    - Team lunch on April 2nd 2024
+    - Initial offer on April 12th 2024
+    - Offer accepted on April 15th 2024
  - Contract signed on May 13th 2024
  - Work permit application filed on May 28th 2024
  - Work permit approved on June 13th 2024
@@ -56,6 +72,14 @@ title: "Switzerland work visa"
  - [Total process flowchart](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf/_jcr_content/par/enhancedmulticolumn/items/0/column/image/image.imagespooler.jpg/1608625059552/1024.2000/verfahrensablauf-ueber4mte-e.png)
  - [Swiss Secretariat of Migration (SEM)](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf.html)
  - [142.20 AIG Foreign Nationals and Integration Act](https://www.fedlex.admin.ch/eli/cc/2007/758/en)
+    - [Art.18-26a, Admission for a Period of Stay with Gainful Employment](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
+    - [Art.30 para.1, Derogations from the Admission Requirements](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
+    - [Art.33 Residence permit](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_33)
+    - [Art.40 para.2, Permit-granting authority and preliminary decision based on the employment market](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_40)
  - [142.201 ZVAE Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit](https://www.fedlex.admin.ch/eli/cc/2007/759/de)
+    - [Art.18a Short term residence permits and residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_18_a)
+    - [Art.20 Maximum numbers for residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_20)
+    - [Art.83 Preliminary decision on the labour market](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_83)
  - [142.201.1 ZV-EJPD Ordinance on the approval procedure under immigration law](https://www.fedlex.admin.ch/eli/cc/2015/518/de)
- - [Types of residence permits](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/biometr_auslaenderausweis.html)
+    - [Art.1 letter a Residence with employment](https://www.fedlex.admin.ch/eli/cc/2015/518/de#art_1)
+
