@@ -294,33 +294,25 @@ footer {
 }
 
 /* Base styles for the navigation bar */
-.fixed-nav {
-  position: fixed; /* Fixes the navigation bar to the top */
-  top: 0;
+.scrolling-nav {
   width: 100%;
   background-color: #fff; /* Adjust as needed */
-  z-index: 1000; /* Ensures it stays above other content */
   padding: 10px 0; /* Adds padding for aesthetics */
   border-bottom: 1px solid #ddd; /* Optional: Adds a bottom border for separation */
 }
 
-/* Ensure the body content does not overlap the fixed nav */
-body {
-  padding-top: 50px; /* Adjust this value based on the height of your navigation bar */
-}
-
-.fixed-nav ul {
+.scrolling-nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.fixed-nav li {
+.scrolling-nav li {
   display: inline;
   float: right; /* Keeps the Home button to the right */
 }
 
-.fixed-nav a {
+.scrolling-nav a {
   text-decoration: none;
   padding: 10px 15px;
   display: inline-block;
