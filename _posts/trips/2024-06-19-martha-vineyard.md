@@ -6,7 +6,7 @@ title: "Martha's Vineyard"
 ### Places to see
 
  - Oak Bluffs
-    - **Gingerbread cottages**
+    - **[Gingerbread cottages](https://www.countryliving.com/real-estate/news/g3613/marthas-vineyard-gingerbread-houses/)**
     - East Chop Lighthouse
  - Edgartown
     - great downtown area with lots of shops and restaurants
