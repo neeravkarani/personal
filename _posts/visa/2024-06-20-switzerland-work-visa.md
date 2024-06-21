@@ -3,6 +3,17 @@ layout: post
 title: "Switzerland work visa"
 ---
 
+## Application Process
+
+ 1. Work permit: Company applies to the Cantonal Labour Market Authority. Usually takes 2-3 weeks.
+ 2. Residence permit:
+   a. In some cases, an initial approval by the State Department for Migration (SEM) is necessary. (usually takes 2-3 weeks)
+   b. An approval by the Cantonal Migration Office must be obtained. The Decision is usually issued directly to the company. 2 copies are sent, one for thec employer and one for the employee. (usually takes 2-3 weeks)
+ 3. Once both permits are approved, the applicant should send the approval letter to the Swiss Consulate in their country. They will then issue your visa. (usually takes 1 week).
+ 4. In Switzerland, the employee has to register with the “Kreisbüro“ (if living in a city) or with the “Gemeinde“ (village). Upon registration, the employee gets a physical card which contains both the work and residence permits.
+
+<br>
+
 ## Documents
 
 ### For work permit application
