@@ -60,37 +60,55 @@ title: "Switzerland work visa"
 
 <br>
 
+## Authorization to issue visa (Ermächtigung zur Visumserteilung)
+
+The Migration Office of the Canton of Zurich, based on Article 40 of the Federal Law of 16 December 2005 on Foreign Nationals and Integration, has issued:
+  - Zulassungcode: 1470 Jahresaufenthalter (one year residence permit / B permit)
+  - Diese Ermächtigung erlischt am (This authorization expires on): 27.09.2024
+  - Bedingungen (Conditions):
+    - Gültiges Reisedokument (Valid travel document)
+    - Vorlage des Strafregisterauszuges bei Anmeldung (Presentation of criminal record extract upon registration)
+  - Bemerkungen (Remarks): Gemäss AWI-Verfügung vom (According to AWI order dated) 13.06.2024
+  - Der Ausländer hat sich innert 14 Tagen nach der Einreise, jedoch spätestens vor Aufnahme der Erwerbstätigkeit, bei der für den Wohnort zuständigen Einwohnerkontrolle zur Regelung des Aufenthalts anzumelden. (The foreigner must register with the residents' registration office responsible for his place of residence within 14 days of entry, but no later than before taking up employment, in order to regulate his stay.)
+
+<br>
+
 ## My timeline
- - Interview process (Feb 15th 2024 - April 15th 2024)
-    - Call with Recruiter on Feb 15th 2024
-    - Interview with Hiring Manager on March 7th 2024
-    - Take-home coding exercise on March 9th 2024
-    - Technical interview 1 on March 21st 2024
-    - Technical interview 2 on March 27th 2024
-    - Soft offer on March 28th 2024
-    - Team lunch on April 2nd 2024
-    - Initial offer on April 12th 2024
-    - Offer accepted on April 15th 2024
- - Contract signed on May 13th 2024
- - Work permit application filed on May 28th 2024
- - Work permit approved on June 13th 2024
- - Cantonal migration office approval letter received on 
- - Visa from Swiss consulate in NYC received on 
+ - Interview process
+    - 15.02.2024 Call with Recruiter
+    - 07.03.2024 Interview with Hiring Manager
+    - 09.03.2024 Take-home coding exercise
+    - 21.03.2024 Technical interview 1
+    - 27.03.2024 Technical interview 2
+    - 28.03.2024 Soft offer
+    - 02.04.2024 Team lunch
+    - 12.04.2024 Initial offer
+    - 15.04.2024 Final offer accepted
+ - 13.05.2024 Contract signed
+ - 28.05.2024 Lawyer filed work permit application
+ - 13.06.2024 Received work permit approval letter
+ - 27.06.2024 Called cantonal migration office to request expedition
+ - 28.06.2024 Received approval letter from cantonal migration office
+ - 28.06.2024 Wrote to Swiss consulate in NYC, requesting instructions for getting visa stamp
+ - xx.xx.2024 Visa from Swiss consulate in NYC received
 
 <br>
 
 ## References
  - [Total process flowchart](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf/_jcr_content/par/enhancedmulticolumn/items/0/column/image/image.imagespooler.jpg/1608625059552/1024.2000/verfahrensablauf-ueber4mte-e.png)
  - [Swiss Secretariat of Migration (SEM)](https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige/verfahrensablauf.html)
- - [142.20 AIG Foreign Nationals and Integration Act](https://www.fedlex.admin.ch/eli/cc/2007/758/en)
-    - [Art.18-26a, Admission for a Period of Stay with Gainful Employment](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
-    - [Art.30 para.1, Derogations from the Admission Requirements](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
-    - [Art.33, Residence permit](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_33)
-    - [Art.40 para.2, Permit-granting authority and preliminary decision based on the employment market](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_40)
- - [142.201 ZVAE Regulation on admission, residence and employment](https://www.fedlex.admin.ch/eli/cc/2007/759/de)
-    - [Art.18a, Short term residence permits and residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_18_a)
-    - [Art.20, Maximum numbers for residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_20)
-    - [Art.83, Preliminary decision on the labour market](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_83)
- - [142.201.1 ZV-EJPD Ordinance on the approval procedure under immigration law](https://www.fedlex.admin.ch/eli/cc/2015/518/de)
-    - [Art.1 letter a, Residence with employment](https://www.fedlex.admin.ch/eli/cc/2015/518/de#art_1)
+ - [Zurich Migrationsamt](https://www.zh.ch/de/sicherheitsdirektion/migrationsamt.html) $\rightarrow$ [map](https://maps.app.goo.gl/sHgzbaQMjmpf3kZS9)
+   - Phone +41 043 259 8800
+ - Relevant articles
+   - [142.20 AIG Foreign Nationals and Integration Act](https://www.fedlex.admin.ch/eli/cc/2007/758/en)
+      - [Art.18-26a, Admission for a Period of Stay with Gainful Employment](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
+      - [Art.30 para.1, Derogations from the Admission Requirements](https://www.fedlex.admin.ch/eli/cc/2007/758/en#chap_5/sec_1)
+      - [Art.33, Residence permit](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_33)
+      - [Art.40 para.2, Permit-granting authority and preliminary decision based on the employment market](https://www.fedlex.admin.ch/eli/cc/2007/758/en#art_40)
+   - [142.201 ZVAE Regulation on admission, residence and employment](https://www.fedlex.admin.ch/eli/cc/2007/759/de)
+      - [Art.18a, Short term residence permits and residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_18_a)
+      - [Art.20, Maximum numbers for residence permits](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_20)
+      - [Art.83, Preliminary decision on the labour market](https://www.fedlex.admin.ch/eli/cc/2007/759/de#art_83)
+   - [142.201.1 ZV-EJPD Ordinance on the approval procedure under immigration law](https://www.fedlex.admin.ch/eli/cc/2015/518/de)
+      - [Art.1 letter a, Residence with employment](https://www.fedlex.admin.ch/eli/cc/2015/518/de#art_1)
 
