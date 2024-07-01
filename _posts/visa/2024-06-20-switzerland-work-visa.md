@@ -17,7 +17,7 @@ title: "Switzerland work visa"
 ## Required Documents
 
 ### For work permit application
- - Information regarding postdoc (how it can be considered as an extension of ETH studies)
+ - Information regarding postdoc (how it can be considered as an extension of ETH study)
  - CV and diplomas
  - Training and employment certificates
  - Passport
@@ -31,7 +31,7 @@ title: "Switzerland work visa"
  - Details of direct family members living abroad
  - Details of family members in Switzerland, if any
  - All previous stays in Switzerland (dates of entry / exit)
- - Place where visa shall be issued by the Switzerland’s representation abroad.  
+ - Place where visa shall be issued by the Switzerland’s representation abroad.
 
 ### By Swiss Consulate in USA
  - Original valid passport. Must be valid for at least 3 months beyond the planned arrival date and have 2 empty visa pages
@@ -41,6 +41,20 @@ title: "Switzerland work visa"
  - Authorization letter from Switzerland
  - [Visa fee](https://www.fdfa.admin.ch/countries/usa/en/home/visa/entry-ch/more-90-days/fees-national.html), paid by Money Order / Cashier's cheque in the name of ‘Consulate General of Switzerland in New York’.
  - Prepaid and self-addressed return envelope with tracking, to return the passport (UPS, FedEx or USPS). Please indicate your name and address as both sender and recipient.
+
+### Required during registration in Switzerland
+ - Criminal record statement / Strafregisterauszug. In the USA, this is called [FBI's Identity History Summary Check](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/identity-history-summary-checks), and can be obtained via the following process: 
+      - Visit this [website](https://www.edo.cjis.gov/#/), fill in your details and make payment of $18.
+      - Submit fingerprints in one of two ways:
+        - This can be done electronically at a USPS location and costs $50, if you have a US federal or state ID. They do not accept foreign passports though.
+        - Obtaining your physical fingerprint card (via one of the following ways) and mail to the FBI address listed on the confirmation email. **The request will continue to be processed as an electronic submission once the completed fingerprint card is received**. Additional fees will apply.
+          - [Cambridge city's police department](https://www.cambridgema.gov/Services/fingerprintcards), by appointment, for $15.
+          - [MIT police department](https://police.mit.edu/fingerprinting), by appointment, for $10.
+          - [List of other public places](https://www.cambridgema.gov/-/media/Files/policedepartment/AlternateFingerPrintOffices_FINAL.pdf) in the Boston area.
+          - Private services:
+            - [Certifix](https://www.certifixlivescan.com/), walk-ins allowed, for $40. You will receive fingerprint card by physical mail in 7-10 days. You can get expedited delivery in 1-2 days for $28 and in 3-4 days for $9.
+            - [Sterling](https://sterlingidentity.com/individuals/)
+            - [Printscan](https://printscan.com/)
 
 <br>
 
@@ -94,14 +108,22 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 12.04.2024 Initial offer
     - 15.04.2024 Final offer accepted
  - 13.05.2024 Contract signed
- - 28.05.2024 **Filed work permit and visa application**
+ - 28.05.2024 Filed work permit and visa application
  - 13.06.2024 Received work permit approval letter
  - 27.06.2024 Called cantonal migration office to request expedition
- - 28.06.2024 **Received visa authorization letter from cantonal migration office**
+ - 28.06.2024 Received visa authorization letter from cantonal migration office
  - 28.06.2024 Wrote to Swiss consulate in NYC, requesting instructions for getting visa stamp
  - 28.06.2024 Received email response from Swiss consulate. Preparing documents to be sent to them
- - xx.xx.2024 Sent required documents to Swiss consulate in NYC
+ - 29.06.2024 Sent passport + required documents to Swiss consulate in NYC. ($100 visa fee + $67 courier)
+ - 01.07.2024 Passport +  documents reached Swiss consulate in NYC
+ - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
  - xx.xx.2024 Received Visa from Swiss consulate in NYC
+
+## Kruti's timeline
+ - 29.06.2024 Sent application + required documents to Swiss consulate in NYC. ($100 visa fee)
+ - 01.07.2024 Application +  documents reached Swiss consulate in NYC.
+ - 01.07.2024 Applied for FBI's Identity History Summary Check ($18 fee)
+ - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) ($40 basic fee + $28 for expedited delivery)
 
 <br>
 
