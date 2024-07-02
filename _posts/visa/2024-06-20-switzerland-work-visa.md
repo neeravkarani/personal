@@ -44,15 +44,15 @@ title: "Switzerland work visa"
 
 ### Required during registration in Switzerland
  - Criminal record statement / Strafregisterauszug. In the USA, this is called [FBI's Identity History Summary Check](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/identity-history-summary-checks), and can be obtained via the following process: 
-      - Visit this [website](https://www.edo.cjis.gov/#/), fill in your details and make payment of $18.
+      - Visit this [website](https://www.edo.cjis.gov/#/), fill in your details and make payment of USD 18.
       - Submit fingerprints in one of two ways:
-        - This can be done electronically at a USPS location and costs $50, if you have a US federal or state ID. They do not accept foreign passports though.
+        - This can be done electronically at a USPS location and costs USD 50, if you have a US federal or state ID. They do not accept foreign passports though.
         - Obtaining your physical fingerprint card (via one of the following ways) and mail to the FBI address listed on the confirmation email. **The request will continue to be processed as an electronic submission once the completed fingerprint card is received**. Additional fees will apply.
-          - [Cambridge city's police department](https://www.cambridgema.gov/Services/fingerprintcards), by appointment, for $15.
-          - [MIT police department](https://police.mit.edu/fingerprinting), by appointment, for $10.
+          - [Cambridge city's police department](https://www.cambridgema.gov/Services/fingerprintcards), by appointment, for USD 15.
+          - [MIT police department](https://police.mit.edu/fingerprinting), by appointment, for USD 10.
           - [List of other public places](https://www.cambridgema.gov/-/media/Files/policedepartment/AlternateFingerPrintOffices_FINAL.pdf) in the Boston area.
           - Private services:
-            - [Certifix](https://www.certifixlivescan.com/), walk-ins allowed, for $40. You will receive fingerprint card by physical mail in 7-10 days. You can get expedited delivery in 1-2 days for $28 and in 3-4 days for $9.
+            - [Certifix](https://www.certifixlivescan.com/), walk-ins allowed, for USD 40. You will receive fingerprint card by physical mail in 7-10 days. You can get expedited delivery in 1-2 days for USD 28 and in 3-4 days for USD 9.
             - [Sterling](https://sterlingidentity.com/individuals/)
             - [Printscan](https://printscan.com/)
 
