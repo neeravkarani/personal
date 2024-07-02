@@ -128,12 +128,19 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
 
 ## Kruti's timeline
  - Visa Process
-    - 29.06.2024 Sent application + required documents to Swiss consulate in NYC. (USD 100 visa fee)
-    - 01.07.2024 Application +  documents reached Swiss consulate in NYC.
+    - 29.06.2024 Sent application + required documents to Swiss consulate in NYC (USD 100 visa fee)
+    - 01.07.2024 Application + documents reached Swiss consulate in NYC
+    - xx.xx.2024 Called cantonal migration office to request expedition
+    - xx.xx.2024 Received visa authorization and passport request from Swiss consulate in NYC
+    - xx.xx.2024 Sent passport + required documents to Swiss consulate in NYC (USD 10 FedEx)
+    - xx.xx.2024 Passport + documents reached Swiss consulate in NYC
+    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
+    - xx.xx.2024 Received Visa from Swiss consulate in NYC
  - FBI's Identity History Summary Check 
     - 01.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) (USD 40 basic fee + USD 28 for expedited delivery)
     - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
+    - xx.xx.2024 Received Identity History Summary
 
 
 <br>
