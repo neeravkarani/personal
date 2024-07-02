@@ -107,23 +107,34 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 02.04.2024 Team lunch
     - 12.04.2024 Initial offer
     - 15.04.2024 Final offer accepted
- - 13.05.2024 Contract signed
- - 28.05.2024 Filed work permit and visa application
- - 13.06.2024 Received work permit approval letter
- - 27.06.2024 Called cantonal migration office to request expedition
- - 28.06.2024 Received visa authorization letter from cantonal migration office
- - 28.06.2024 Wrote to Swiss consulate in NYC, requesting instructions for getting visa stamp
- - 28.06.2024 Received email response from Swiss consulate. Preparing documents to be sent to them
- - 29.06.2024 Sent passport + required documents to Swiss consulate in NYC. ($100 visa fee + $67 courier)
- - 01.07.2024 Passport +  documents reached Swiss consulate in NYC
- - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
- - xx.xx.2024 Received Visa from Swiss consulate in NYC
+    - 13.05.2024 Contract signed
+ - Visa Process
+    - 28.05.2024 Filed work permit and visa application
+    - 13.06.2024 Received work permit approval letter
+    - 27.06.2024 Called cantonal migration office to request expedition
+    - 28.06.2024 Received visa authorization letter from cantonal migration office
+    - 28.06.2024 Wrote to Swiss consulate in NYC, requesting instructions for getting visa stamp
+    - 28.06.2024 Received email response from Swiss consulate. Preparing documents to be sent to them
+    - 29.06.2024 Sent passport + required documents to Swiss consulate in NYC (USD 100 visa fee + USD 67 courier)
+    - 01.07.2024 Passport + documents reached Swiss consulate in NYC
+    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
+    - xx.xx.2024 Received Visa from Swiss consulate in NYC
+ - FBI's Identity History Summary Check
+    - xx.xx.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
+    - 09.07.2024 Fingerprinting at MIT Police (USD 10 fee)
+    - xx.xx.2024 Sent fingerprint card to FBI (USD 10 FedEx)
+    - xx.xx.2024 Received Identity History Summary
+
 
 ## Kruti's timeline
- - 29.06.2024 Sent application + required documents to Swiss consulate in NYC. ($100 visa fee)
- - 01.07.2024 Application +  documents reached Swiss consulate in NYC.
- - 01.07.2024 Applied for FBI's Identity History Summary Check ($18 fee)
- - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) ($40 basic fee + $28 for expedited delivery)
+ - Visa Process
+    - 29.06.2024 Sent application + required documents to Swiss consulate in NYC. (USD 100 visa fee)
+    - 01.07.2024 Application +  documents reached Swiss consulate in NYC.
+ - FBI's Identity History Summary Check 
+    - 01.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
+    - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) (USD 40 basic fee + USD 28 for expedited delivery)
+    - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
+
 
 <br>
 
