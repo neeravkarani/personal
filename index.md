@@ -16,8 +16,9 @@ Welcome to my personal notes.
 
 <br>
 
-### Gifts
+### Purchases
  - [Pankti Babyshower]({{ site.baseurl }}{% link _posts/gifts/2024-06-19-pankti_babyshower.md %})
+ - [Misc Things]({{ site.baseurl }}{% link _posts/gifts/2024-07-03-misc_purchases.md %})
 
 <br>
 
