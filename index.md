@@ -7,6 +7,7 @@ Welcome to my personal notes.
 
 ### Food
  - [Vegan in Boston]({{ site.baseurl }}{% link _posts/food/2024-06-21-vegan-boston.md %})
+ - [Vegan in Zurich]({{ site.baseurl }}{% link _posts/food/2024-07-05-vegan-zurich.md %})
 
 <br>
 
