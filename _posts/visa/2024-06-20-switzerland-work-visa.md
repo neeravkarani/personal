@@ -117,8 +117,8 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 28.06.2024 Received email response from Swiss consulate. Preparing documents to be sent to them
     - 29.06.2024 Sent passport + required documents to Swiss consulate in NYC (USD 100 visa fee + USD 67 courier)
     - 01.07.2024 Passport + documents reached Swiss consulate in NYC
-    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
-    - xx.xx.2024 Received Visa from Swiss consulate in NYC
+    - 03.07.2024 Passport dispatched by Swiss consulate in NYC
+    - 06.07.2024 Received Visa from Swiss consulate in NYC
  - FBI's Identity History Summary Check
     - xx.xx.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 09.07.2024 Fingerprinting at MIT Police (USD 10 fee)
