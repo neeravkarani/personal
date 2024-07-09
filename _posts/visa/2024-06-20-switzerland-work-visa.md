@@ -120,16 +120,22 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 03.07.2024 Passport dispatched by Swiss consulate in NYC
     - 06.07.2024 Received Visa from Swiss consulate in NYC
  - FBI's Identity History Summary Check
-    - xx.xx.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
-    - 09.07.2024 Fingerprinting at MIT Police (USD 10 fee)
-    - xx.xx.2024 Sent fingerprint card to FBI (USD 10 FedEx)
-    - xx.xx.2024 Received Identity History Summary
+    - 09.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
+    - 09.07.2024 Fingerprinting at MIT Police (Free)
+    - 09.07.2024 Sent fingerprint card to FBI (USD 10 FedEx)
+    - xx.xx.2024 Fingerprint card reached FBI (ETA 11.07)
+    - xx.xx.2024 Received Identity History Summary (ETA 20.07)
 
 
 ## Kruti's timeline
  - Visa Process
     - 29.06.2024 Sent application + required documents to Swiss consulate in NYC (USD 100 visa fee)
     - 01.07.2024 Application + documents reached Swiss consulate in NYC
+    - 09.07.2024 Received email from Migrationsamt Zurich, asking for the following documents
+      - Current apostille for the submitted Indian marriage certificate. The apostille from 2017 is no longer current.
+      - Current criminal record extract / Identity History Summary (IdHS) from the American authorities.
+      - German A1 Certificate (speaking, listening) according to the Common European Framework of Reference for Languages. We accept certificates from telc, Goethe, ÖSD, Cantonal German Tests in the Naturalization Process (KDE), TestDaF and fide. If you do not have any of these language certificates, submit either **confirmation of registration for a language course** or **confirmation from a language school that you can take a corresponding language course** at any time after entering Switzerland.
+      - **If available**, a copy of the main **rental agreement** for the future family home.
     - xx.xx.2024 Called cantonal migration office to request expedition
     - xx.xx.2024 Received visa authorization and passport request from Swiss consulate in NYC
     - xx.xx.2024 Sent passport + required documents to Swiss consulate in NYC (USD 10 FedEx)
@@ -140,7 +146,8 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 01.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) (USD 40 basic fee + USD 28 for expedited delivery)
     - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
-    - xx.xx.2024 Received Identity History Summary
+    - 03.07.2024 Fingerprint card reached FBI
+    - xx.xx.2024 Received Identity History Summary (ETA 12.07)
 
 
 <br>
