@@ -123,7 +123,7 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 09.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 09.07.2024 Fingerprinting at MIT Police (Free)
     - 09.07.2024 Sent fingerprint card to FBI (USD 10 FedEx)
-    - xx.xx.2024 Fingerprint card reached FBI (ETA 11.07)
+    - 10.07.2024 Fingerprint card reached FBI
     - xx.xx.2024 Received Identity History Summary (ETA 20.07)
 
 
@@ -136,13 +136,16 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
       - Current criminal record extract / Identity History Summary (IdHS) from the American authorities.
       - German A1 Certificate (speaking, listening) according to the Common European Framework of Reference for Languages. We accept certificates from telc, Goethe, ÖSD, Cantonal German Tests in the Naturalization Process (KDE), TestDaF and fide. If you do not have any of these language certificates, submit either **confirmation of registration for a language course** or **confirmation from a language school that you can take a corresponding language course** at any time after entering Switzerland.
       - **If available**, a copy of the main **rental agreement** for the future family home.
-    - xx.xx.2024 Called cantonal migration office to request expedition
-    - xx.xx.2024 Received visa authorization and passport request from Swiss consulate in NYC
-    - xx.xx.2024 Sent passport + required documents to Swiss consulate in NYC (USD 10 FedEx)
-    - xx.xx.2024 Passport + documents reached Swiss consulate in NYC
-    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC
-    - xx.xx.2024 Received Visa from Swiss consulate in NYC
- - FBI's Identity History Summary Check 
+    - 10.07.2024 Sent clarification regarding that the Apostille (issued by the Ministry of External Affairs, Government of India) is in accordance with the Hague Convention of 1961, does not have an expiration date and remains valid indefinitely. This is explicitly stated in paragraph 28 of the official Apostille handbook of the Hague Conference on Private International Law - page 32 in the [English version](https://assets.hcch.net/docs/a19ae90b-27bf-4596-b5ee-0140858abeaa.pdf) and pages 31 and 32 in the [German version](https://assets.hcch.net/docs/ce650882-b1d4-46b7-a74c-c0a8fd0af428.pdf). Since both India and Switzerland are signatories to the Hague Convention, the validity of the Apostille should be recognized irrespective of the date of issue. Additionally, the Apostille on my marriage certificate can be verified online by using the reference number that is mentioned on the Apostille stamp on this [official Government of India website](https://esanad.nic.in/eregister).
+    - xx.xx.2024 Received clarification from cantonal migration office regarding the Apostille and German language requirements. (ETA 11.07)
+    - xx.xx.2024 Sent FBI IdHS to cantonal migration office. (ETA 12.07)
+    - xx.xx.2024 Called cantonal migration office to request expedition (ETA 16.07)
+    - xx.xx.2024 Received visa authorization and passport request from Swiss consulate in NYC (ETA 18.07)
+    - xx.xx.2024 Sent passport + required documents to Swiss consulate in NYC (USD 10 FedEx) (ETA 19.07)
+    - xx.xx.2024 Passport + documents reached Swiss consulate in NYC (ETA 20.07)
+    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC (ETA 22.07)
+    - xx.xx.2024 Received Visa from Swiss consulate in NYC (ETA 23.07)
+ - FBI's Identity History Summary Check
     - 01.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) (USD 40 basic fee + USD 28 for expedited delivery)
     - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
