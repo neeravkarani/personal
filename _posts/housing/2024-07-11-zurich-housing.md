@@ -14,3 +14,9 @@ title: "Zurich Housing"
 ## Temporary services apartments
 - [Third Point Apartments](https://www.tp-apartments.ch/)
 - [Blue Ground](https://www.theblueground.com/)
+
+## Long-term
+- [3.5, 98m2, 3400, 30.09 -](https://www.homegate.ch/rent/4001303650) $\rightarrow$ [Turbinenstrasse 22, 8005](https://maps.app.goo.gl/9QrXsYhLctkNxkpv6)
+- [4.5, 106m2, 3110, 30.09 -](https://www.homegate.ch/rent/4001281450) $\rightarrow$ [Bruchstrasse, 8041](https://maps.app.goo.gl/EgY8hgYvcbmXXBHG8)
+- [4.5, 124m2, 3150, 30.09 -](https://www.homegate.ch/rent/4001295438) $\rightarrow$ [Grosswiesenstrasse 149, 8051](https://maps.app.goo.gl/zNtCYWBwFhDuZgqt7)
+- [3, 79m2, 3184, 30.09](https://www.homegate.ch/rent/4001281453) $\rightarrow$ [Baslerstrasse 73, 8048](https://maps.app.goo.gl/XaqZM9u7ZusG9mrq8)
