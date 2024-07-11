@@ -26,6 +26,9 @@ Welcome to my personal notes.
 ### Visa
  - [Switzerland Work Visa]({{ site.baseurl }}{% link _posts/visa/2024-06-20-switzerland-work-visa.md %})
 
+### Housing
+ - [Zurich housing]({{ site.baseurl }}{% link _posts/housing/2024-07-11-zurich-housing.md %})
+
 <br>
 
 ### Languages
