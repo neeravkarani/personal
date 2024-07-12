@@ -9,6 +9,10 @@ title: "Zurich Housing"
 
 - [Adrianne, 3.5 rooms, 70m2, CHF 2750 per month, 01.08 - 31.08](https://flatfox.ch/en/flat/diggelmannstrasse-33-8047-zurich/1261145/) $\rightarrow$ [Diggelmannstrasse, 33, 8047](https://maps.app.goo.gl/U2w9VRWMiqyHkoVZ6)
 
+- [Manuela, 2.5 rooms, CHF 2100 per month, 01.08 - 15.09](https://flatfox.ch/en/flat/brauerstrasse-8004-zurich/1264341/) $\rightarrow$ [Brauerstrasse, 8004](https://maps.app.goo.gl/NCLaHwDuBuhFSxmf9)
+
+- [Fabio, 2.5 rooms, 60m2, CHF 2500 per month, 01.08 - 15.09](https://flatfox.ch/en/flat/8050-zurich/1265769/) $\rightarrow$ [Dorflistrasse, 8050](https://maps.app.goo.gl/qtxn19Tcfc5VPJZ28)
+
 - [James, 2.5 rooms, 90m2, CHF 3000 per month, 28.07 - 30.09](https://flatfox.ch/en/flat/rislingstrasse-8044-zurich/1260881/) $\rightarrow$ [Rislingstrasse, 8044](https://maps.app.goo.gl/VzzbXL47LXJTzT7x9)
 
 - [Marvin, 2.5 rooms, 64m2, CHF 2300 per month, 01.08 - 05.10](https://flatfox.ch/en/flat/brandstrasse-1-8952-schlieren/1221973/) $\rightarrow$ [Brandstrasse 1, 8952](https://maps.app.goo.gl/ozduvZfvQcUWEggk8)
