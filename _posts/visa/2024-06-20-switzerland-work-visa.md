@@ -151,7 +151,7 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
     - 03.07.2024 Fingerprint card reached FBI
     - 14.07.2024 Received Identity History Summary - Application rejected due to smudged fingerprints (booo Certifix for approving this!)
-    - 15.07.2024 Submitted fingerprints digitally at Lynn USPS, and received IdHS via email. (USD 18 FBI fee + USD 50 USPS fee + $60 Uber cose)
+    - 15.07.2024 Submitted fingerprints digitally at USPS, and received IdHS via email. (USD 18 FBI fee + USD 50 USPS fee + USD 60 Uber cost)
 
 
 <br>
