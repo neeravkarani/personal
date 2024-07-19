@@ -126,7 +126,7 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 09.07.2024 Fingerprinting at MIT Police (Free)
     - 09.07.2024 Sent fingerprint card to FBI (USD 10 FedEx)
     - 10.07.2024 Fingerprint card reached FBI
-    - xx.xx.2024 Received Identity History Summary (ETA 20.07)
+    - 19.07.2024 Received Identity History Summary
 
 
 ## Kruti's timeline
