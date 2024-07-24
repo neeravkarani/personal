@@ -109,7 +109,7 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 15.04.2024 Final offer accepted
     - 13.05.2024 Contract signed
 
- - Visa Process
+ - Visa Process (Total cost approx. USD 200 in USA + lawyer fees + application fees in Switzerland)
     - 28.05.2024 Filed work permit and visa application
     - 13.06.2024 Received work permit approval letter
     - 27.06.2024 Called cantonal migration office to request expedition
@@ -130,7 +130,7 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
 
 
 ## Kruti's timeline
- - Visa Process
+ - Visa Process (Total cost approx. USD 370)
     - 29.06.2024 Sent application + required documents to Swiss consulate in NYC (USD 100 visa fee)
     - 01.07.2024 Application + documents reached Swiss consulate in NYC
     
@@ -147,14 +147,16 @@ The Migration Office of the Canton of Zurich, based on Article 40 of the Federal
     - 17.07.2024 Called cantonal migration office to request expedition. Person said all indivial ticks can be seen, but final approval is pending. They could not reach the person responsible for final approval. So, they added a "priority" note to our case, and said that hopefully it will be approved by the end of the week. But that this could not be gauranteed.
     
     - 18.07.2024 Sent email to Swiss consulate in NYC, asking (1) how would the decision be transmitted to us (directly by the Migrationsamt, or from the Migrationsamt to the Swiss consulate in NYC, and then from them to us), (2) what documents should be send them for getting the visa stamped once approval is granted.
+
+    - 19.07.2024 Called Migrationsamt and requested expedition. They said they will approve today.
     
-    - xx.xx.2024 Received visa authorization and passport request from Swiss consulate in NYC (ETA 18.07)
-    - xx.xx.2024 Sent passport + required documents to Swiss consulate in NYC (USD 10 FedEx) (ETA 19.07)
-    - xx.xx.2024 Passport + documents reached Swiss consulate in NYC (ETA 20.07)
-    - xx.xx.2024 Passport dispatched by Swiss consulate in NYC (ETA 22.07)
-    - xx.xx.2024 Received Visa from Swiss consulate in NYC (ETA 23.07)
+    - 22.07.2024 Received visa authorization and passport request from Swiss consulate in NYC
+    - 22.07.2024 Sent passport + required documents to Swiss consulate in NYC (USD 70 FedEx, incl. return envelope)
+    - 23.07.2024 Passport + documents reached Swiss consulate in NYC
+    - 23.07.2024 Passport dispatched by Swiss consulate in NYC
+    - 24.07.2024 Received Visa from Swiss consulate in NYC
  
- - FBI's Identity History Summary Check
+ - FBI's Identity History Summary Check (approx. USD 200)
     - 01.07.2024 Applied for FBI's Identity History Summary Check (USD 18 fee)
     - 01.07.2024 Recorded fingerprints at [Certifix](https://www.certifixlivescan.com/) (USD 40 basic fee + USD 28 for expedited delivery)
     - 02.07.2024 Received fingerprints. Sent them to FBI (USD 10 FedEx)
